@@ -2,7 +2,7 @@
 
 # Random Gradient Color with JavaScript | Crimson
 
-<img src="admin/base.png">
+<img src="base.png">
 
 ### by <a href="https://github.com/shahnozahaydarova">Shakhnoza Haydarova</a>
 
